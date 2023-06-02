@@ -1,0 +1,45 @@
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.AssemblyReference.cache
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfoInputs.cache
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfo.cs
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.CoreCompileInputs.cache
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.exe
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.deps.json
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.runtimeconfig.json
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\refint\TesteClienteConsole.dll
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.genruntimeconfig.cache
+C:\Users\jmendonca\Desktop\VS Code\DJD\TesteClienteConsole\obj\Debug\net7.0\ref\TesteClienteConsole.dll
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.exe
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.deps.json
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.runtimeconfig.json
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfo.cs
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\refint\TesteClienteConsole.dll
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.genruntimeconfig.cache
+C:\Users\user\OneDrive\Ambiente de Trabalho\Licenciatura\1º Ano\2º Semestre\Introdução ao Desenvolvimento de Jogos\clientstuff\visualcodeCODE\TesteClienteConsole\obj\Debug\net7.0\ref\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.exe
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.deps.json
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.runtimeconfig.json
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\refint\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.genruntimeconfig.cache
+C:\Users\Tiago\Desktop\Projeto de IDJD\trunk\TesteClienteConsole\obj\Debug\net7.0\ref\TesteClienteConsole.dll

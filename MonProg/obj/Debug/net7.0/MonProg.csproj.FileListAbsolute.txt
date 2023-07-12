@@ -1,0 +1,15 @@
+C:\Users\Tiago\Desktop\Repo\MonProg\bin\Debug\net7.0\MonProg.exe
+C:\Users\Tiago\Desktop\Repo\MonProg\bin\Debug\net7.0\MonProg.deps.json
+C:\Users\Tiago\Desktop\Repo\MonProg\bin\Debug\net7.0\MonProg.runtimeconfig.json
+C:\Users\Tiago\Desktop\Repo\MonProg\bin\Debug\net7.0\MonProg.dll
+C:\Users\Tiago\Desktop\Repo\MonProg\bin\Debug\net7.0\MonProg.pdb
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.dll
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\refint\MonProg.dll
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.pdb
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\MonProg.genruntimeconfig.cache
+C:\Users\Tiago\Desktop\Repo\MonProg\obj\Debug\net7.0\ref\MonProg.dll

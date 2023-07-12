@@ -1,0 +1,15 @@
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.exe
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.deps.json
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.runtimeconfig.json
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\bin\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.AssemblyReference.cache
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfoInputs.cache
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.AssemblyInfo.cs
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\refint\TesteClienteConsole.dll
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.pdb
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\TesteClienteConsole.genruntimeconfig.cache
+C:\Users\Tiago\Desktop\Repo\TesteClienteConsole\obj\Debug\net7.0\ref\TesteClienteConsole.dll
